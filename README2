@@ -1,0 +1,10 @@
+#🤖 AI Agent & Translator
+
+A simple web app that provides an AI chat assistant and real-time text translation with automatic language detection.
+
+## 🚀 Run Locally
+```bash
+git clone https://github.com/your-username/ai-agent.git
+cd ai-agent
+npm install
+npm start
