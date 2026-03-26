@@ -1,0 +1,17 @@
+# 🤖 AI Agent Chat App
+
+A simple AI-powered chat application that allows users to start conversations, send messages, and receive intelligent responses in real time.
+
+## ✨ Features
+- AI-generated replies
+- Start new chats instantly
+- Conversation history sidebar
+- Clean and responsive UI
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/vaishnaviattani/ai-agent.git
+cd ai-agent
+npm install
+npm start
